@@ -1,5 +1,18 @@
 # Changelog
 
+## [10.3.0](https://github.com/LazyVim/LazyVim/compare/v10.2.0...v10.3.0) (2023-10-15)
+
+
+### Features
+
+* **dashboard:** `c` on dahboard now opens telescope for config dir instead of useless `init.lua` ([53e1637](https://github.com/LazyVim/LazyVim/commit/53e1637a864cb7e8f21af107b8073bc8b24acd11))
+* **linting:** ability to configure global and fallback linters ([#1727](https://github.com/LazyVim/LazyVim/issues/1727)) ([6e0e352](https://github.com/LazyVim/LazyVim/commit/6e0e352fea4cd930ea7fc42a0252c2c70b279bee))
+
+
+### Bug Fixes
+
+* **python:** add `ft` to Python keymaps, and fix "Markdown Preview" toggle description ([#1729](https://github.com/LazyVim/LazyVim/issues/1729)) ([7c60431](https://github.com/LazyVim/LazyVim/commit/7c60431c58a050cf4badced0609f3179bd284137))
+
 ## [10.2.0](https://github.com/LazyVim/LazyVim/compare/v10.1.1...v10.2.0) (2023-10-14)
 
 
